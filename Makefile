@@ -4,4 +4,4 @@ build:
 default: build
 
 run: build
-	./bin/Release/netcoreapp3.1/generate-oom.exe
+	./bin/Release/netcoreapp3.1/generate-oom
